@@ -82,5 +82,5 @@
 
 
 	Finish.
-	DISPLAY "Thanks for playing COBOL-guesser. We hoped you had fun".
+	DISPLAY "Thanks for playing COBOL-guesser. We hope you had fun".
 	STOP RUN.
